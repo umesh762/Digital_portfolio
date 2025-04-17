@@ -1,1 +1,44 @@
-
+other.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Portfolio Website</title>
+</head>
+<body>
+    <header>
+        <a href="#" class="logo">Umesh</a>
+        <nav>
+            <a href="#" class="active"> Home</a>
+            <a title=" I have a basic understanding
+             of C and SQL, along with good knowledge 
+             of HTML and CSS. I also have a very
+              limited idea about Python" href="file:///C:/Users/ACER/OneDrive/Desktop/digital_portfolio/portfolio2.html" >Skills</a>
+            <a title="Bachelor of Technology (B.Tech) in Information Technology (Pursuing)" href="#" >Education</a>
+            <a href="file:///C:/Users/ACER/OneDrive/Desktop/digital_portfolio/projects.html" >projects & certification</a>
+            <a title="📞 Mobile Number: +91 81808 85695
+            📧 Email: uskuyate40@gmail.com" href="#" >Contact</a>
+        </nav>
+    </header>
+    <section class="home">
+        <div class="home-img">
+            <img src="C:\Users\ACER\OneDrive\Pictures\logo.jpg" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Hi, It's <span>Umesh</span></h1>
+            <h3 class="typing-text">I'm a <span></span></h3>
+            <p> first-year B.Tech student at MIT Academy of Engineering (MITAOE), pursuing Engineering in Information Technology. I have a strong interest in technology and sports, and I also enjoy listening to music in my free time."</p>
+            <div class="social-icons">
+                <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="#"><i class="fa-brands fa-github"></i></a>
+                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.instagram.com/umesh__kuyate?utm_source=qr&igsh=eW0wcjE1bWU0b3o3"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+            <a href="#" class="btn">Hire me</a>
+        </div>
+    </section>
+</body>
+</html>
